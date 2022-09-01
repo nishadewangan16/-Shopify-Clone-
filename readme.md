@@ -2,6 +2,8 @@
 
 ### by Nisha Dewangan
 
+![Tailwind Project](https://img.shields.io/badge/Tailwind%20-project-green) ![lco](https://img.shields.io/badge/iNeuron-LCO-green)
+
 In this project I have created a homepage of Shopify and it is clone of homepage of Shopify actual Website. I have taken the reference of Rode actual website for Creating this Project.
 
 ## 🛠 Technologies used
