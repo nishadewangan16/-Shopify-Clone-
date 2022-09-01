@@ -22,4 +22,4 @@ After this project I have increased my self confidence.
 
 [Live Link !](https://nisha-shopify-clone.netlify.app/)
 
-![image](shopify.png)
+![image](./shopify_ss.pngshopify.png)
